@@ -130,3 +130,10 @@ dmypy.json
 
 # Mac file
 *DS_Store
+
+
+#ignore images
+*.png
+*.jpg
+*.jpeg
+*.pth
